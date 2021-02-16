@@ -1,0 +1,5 @@
+The funny thing is that,
+you can post a text file within gh-pages.
+
+You can see the text, by appending the /text.txt
+on the given url.
