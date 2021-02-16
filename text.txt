@@ -6,3 +6,6 @@ on the given url.
 
 It is important to note that the name of your repository must be in capital letters
 and not in the typical dash format.
+
+Also, clicking on the desired link will get you back to the index.html file
+at default. If that is not the case, the link will display the readme file.
